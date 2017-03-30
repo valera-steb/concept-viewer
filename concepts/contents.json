@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "id": "cv_01",
+      "title": "concept viewer",
+      "path": "viewer"
+    }
+  ],
+  "graph": {  }
+}
